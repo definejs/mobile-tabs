@@ -1,6 +1,6 @@
 {
   "name": "@definejs/mobile-tabs",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,7 +13,7 @@
     "url": "https://github.com/definejs/mobile-tabs.git"
   },
   "dependencies": {
-    "@definejs/tabs": "^0.1.2",
-    "@definejs/touch": "^0.1.0"
+    "@definejs/tabs": "^1.0.0",
+    "@definejs/touch": "^1.0.0"
   }
 }
